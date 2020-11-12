@@ -604,8 +604,7 @@ pre code {
 }
 .no-gutters > .col,
 .no-gutters > [class*=col-] {
-  padding-right: 0;
-  padding-left: 0;
+  padding: 9px;
 }
 
 .col-xl,
@@ -9993,7 +9992,7 @@ hr.light {
 }
 .logoA{
   margin-top: -10%;
-  height: 20vh;
+  height: 15vh;
 }
 .textoA{
   margin-bottom: 7%;
@@ -10046,7 +10045,7 @@ hr.light {
     color: #fff;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
-    color: rgba(255, 255, 255, 0.7);
+    color: #EEF2F5;
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -10101,7 +10100,7 @@ header.masthead h1 {
 }
 @media (min-width: 1200px) {
   header.masthead h1 {
-    font-size: 3.5rem;
+    font-size: 3.0rem;
   }
 }
 
